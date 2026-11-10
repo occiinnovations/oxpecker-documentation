@@ -1,6 +1,7 @@
 # Oxpecker
 
 Oxpecker is a modpack for Minecraft NeoForge 1.21.1 built to quite literally build anything engineering related. With Sable, CC, and Create as the big pillars, the combinations that can be done are ridiculous.
+Link: https://modrinth.com/modpack/oxpecker
 
 ### What is to offer?
 
