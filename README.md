@@ -27,7 +27,7 @@ The pack includes heavy-duty artillery from Create Big Cannons, Create Big Canno
 
 ### Sable Engine Tools
 
-Oxpecker has a massive chunk of Sable mods, such as Physics Compat, Sable Beyond, Sable Photomancy, and Drive-By-Wire with Sable. These tools allow almsot everything in the game, including CC, to interact with physics. You can use ComputerCraft terminals and electronic switches to directly plug into, pilot, and calculate the live movement of your sublevels and vehicles.
+Oxpecker has a massive chunk of Sable mods, such as Physics Compat, Sable Beyond, Sable Photomancy, and Drive-By-Wire with Sable. These tools allow almost everything in the game, including CC, to interact with physics. You can use ComputerCraft terminals and electronic switches to directly plug into, pilot, and calculate the live movement of your sublevels and vehicles.
 
 ![Sliding Aeronautics/Sable system](https://cdn.modrinth.com/data/cached_images/1513233b038cdf116782ef7ed5de337b62e15c7c.jpeg)
 
